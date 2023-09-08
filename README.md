@@ -2,7 +2,7 @@
 #### Seja Bem-Vindo
 
 ```js
-import Desenvolvedor from "FrontEnd";
+import Desenvolvedor from "MatheusGuimaraes";
 
 class SobreMim extends Desenvolvedor {
   nome = "Matheus Guimarães";
