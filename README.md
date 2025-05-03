@@ -1,4 +1,4 @@
-<p align="left">Hello World!!</p>
+<h1 align="left">Back End Developer | Python, Node.js, FastAPI | Machine Learning & Dados</h1>
 
 ###
 
@@ -26,10 +26,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/MatheusGuimaraes007/MatheusGuimaraes007/output/snake.svg" alt="Snake animation" />
 
 ###
 
